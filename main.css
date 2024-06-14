@@ -1,0 +1,48 @@
+nav {
+    background-color: #375035;
+    width: 100%;
+    margin-top: 0px;
+    padding-top: 0px;
+    position: fixed;
+}
+nav li{
+    display: inline-block;
+    margin: 0 auto;
+    padding: 15px;
+
+}
+
+nav a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+body {
+    padding: 0px;
+    margin: 0;
+    background-color: #2B332B;
+}
+
+main {
+    padding: 100px 20px;
+    margin: 10 auto;
+}
+
+#prof {
+    border: 5px solid white;
+    border-radius: 100px;
+}
+
+.intro {
+    display: inline-block;
+}
+
+#corner-text{
+    color:#297024;
+    background-color: #172c15;
+}
+
+p {
+    color: white
+}
